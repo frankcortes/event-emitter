@@ -1,4 +1,4 @@
-## Event Emitter
+## Event Emitter ![image](https://api.travis-ci.com/frankcortes/event-emitter.svg?branch=main)
 
 A subset of the Node's Event Emitter implementation that provides basic functionality for `on`, `off` and `emit` methods.
 The basic API is described [here](https://nodejs.org/api/events.html#events_class_eventemitter).
